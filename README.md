@@ -17,8 +17,6 @@ Focus areas include Linux system administration, network security diagnostics, a
 - Network Troubleshooting Utilities
 - Basic SQL and Data Security Principles
 
-## Example Screenshots
-*(Optional - add images here)*
 
 ## Skills Gained
 - Vulnerability Assessment
@@ -26,7 +24,4 @@ Focus areas include Linux system administration, network security diagnostics, a
 - Information Security Principles
 - Problem-solving and Analytical Thinking
 
----
-
-*Project created to demonstrate real-world exposure to core security concepts and technical operations.*
 
